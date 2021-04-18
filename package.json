@@ -1,0 +1,25 @@
+{
+  "name": "webservices",
+  "version": "1.0.0",
+  "description": "Web services package for that run stored procedures",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresgarcia0313/WebServices.git"
+  },
+  "keywords": [
+    "webservices"
+  ],
+  "author": "andresgarcia0313@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresgarcia0313/WebServices/issues"
+  },
+  "homepage": "https://github.com/andresgarcia0313/WebServices#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
